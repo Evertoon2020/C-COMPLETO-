@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "projeto-teste": {
+      "commandName": "Project"
+    },
+    "Everton": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\evert\\Desktop\\Aula Everton\\Udemy\\Aula C#\\workspace\\Seções\\Secao-8\\projeto-teste\\projeto-teste\\bin\\Debug\\net5.0\\projeto-teste.exe"
+    }
+  }
+}
